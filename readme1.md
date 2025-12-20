@@ -94,7 +94,11 @@ aur kya changes hue hai voh pata lagenge hume
 git diff se 
 fir jb end karna ho aur vps console mein jaana ho toh Q daab dena
 
+Ab merko koi file mein kch code likh rha hu 
+jaise html aur css kr lia hu mgr js ka bacha hai toh git add . se toh pooora hi staging area mein aa jayega aur git commit-m se to sara hi commit ho jayega 
+toh usse baad me commit karne k liye mjhe phle uss file ko staging se hatana pdega uske liye 
 
+git reset file ka naam vo staging se htt jayega fir 
 
 <!-- to access all the files -->
 
