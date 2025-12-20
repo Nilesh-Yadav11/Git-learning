@@ -52,13 +52,45 @@ agar saari files track karaani ho toh
 
 git add .
 
+<!-- PS C:\Users\kadam\OneDrive\Desktop\nilesh_vscode \gitgithub> git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+
+Changes to be committed:
+
+Changes to be committed:
+(use "git rm -- cached <file> ... " to unstage)
+day1-git.html
+day1-git.js
+readme1.md
+
+Changes not staged for commit:
+(use "git add <file> ... " to update what will be committed)
+(use "git restore <file> ... " to discard changes in working directory)
+modified:
+
+PS C:\Users\kadam\OneDrive\Desktop\nilesh_vscode\gitgithub>
+
+new file:
+new file:
+new file:
+
+readme1.md -->
+
+Abhi tk koi bhi files commit nahi hui hai karaani hai toh 
+
+git commit-m "message jo bhi daalna ho "
+m message ke liye hai , saari files commit ho jayengi
+
+
+
 <!-- to access all the files -->
 
 <!-- How to see hidden folder -- >
-In Mac: CMD + SHIFT + .
-In Windows:
-In Windows 10: Click on the View tab at the top, ther
-items in the "Show/Hide" section.
+
 In Windows 11: Click the View drop down (threedots)
 
 Show > Hidden items.
