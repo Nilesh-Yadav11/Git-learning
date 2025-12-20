@@ -86,6 +86,13 @@ git commit-m "message jo bhi daalna ho "
 m message ke liye hai , saari files commit ho jayengi
 
 
+ab commit karne ke baad dekhne ho ki kha kha pr kaun sec hange shue hai toh 
+kha hua hia ye pta lgega git status se red colour me dikhayengi files jaha pr bhi changes hue hai 
+modified ke aage likhe rhenege 
+
+aur kya changes hue hai voh pata lagenge hume
+git diff se 
+fir jb end karna ho aur vps console mein jaana ho toh Q daab dena
 
 <!-- to access all the files -->
 
