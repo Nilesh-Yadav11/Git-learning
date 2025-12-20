@@ -28,9 +28,9 @@ cmd mein git--version se version check kr lo ki install bhu hua ki nhi
 Cmd mein karna list takk
 <!-- Configuration -->
 
-git config -#global user.name "Your Name" // naam pta chl jayga isse
+git config --global user.name "Your Name" // naam pta chl jayga isse
 
-git config -- global user.email "your.email@example.com" 
+git config --global user.email "your.email@example.com" 
 
 You can verify the configuration:
 git config -- list 
@@ -93,6 +93,8 @@ modified ke aage likhe rhenege
 aur kya changes hue hai voh pata lagenge hume
 git diff se 
 fir jb end karna ho aur vps console mein jaana ho toh Q daab dena
+
+
 
 <!-- to access all the files -->
 
