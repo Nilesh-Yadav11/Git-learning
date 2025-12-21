@@ -100,9 +100,6 @@ toh usse baad me commit karne k liye mjhe phle uss file ko staging se hatana pde
 
 git reset file ka naam vo staging se htt jayega fir 
 
-ye commit se phle krna , staging area mein
-
-
 <!-- to access all the files -->
 
 <!-- How to see hidden folder -- >
