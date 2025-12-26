@@ -27,3 +27,17 @@ console.log(footer)
 
 // (master)|_|->|_|-> |_|(payment)->upi
 
+// git rebase master(branch ka naam) se rebase ho jayega
+//aur fir uske baad commit nahi karna uskii jgh hume 
+
+// git rebase --continue
+
+
+// ab agar mai chaahu ki commit message hi change ho jaaye toh 
+// insert mode me aao upar vale steps krkre
+
+// i me tap krna mtlb insert mode me aana
+// fir message likh kr aana baahr esc likh kr fir usse baahr nikalne ke liye 
+// :wq likh dena -- matlab save and quit 
+
+
