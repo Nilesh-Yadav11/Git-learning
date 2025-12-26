@@ -9,6 +9,13 @@ function showage(){
 
 showage();
 
+
+function showage(){
+    console.log(age);
+}
+
+showage();
+
 function showage1(val){
     console.log(age+val);
 }

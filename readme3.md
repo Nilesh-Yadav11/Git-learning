@@ -6,5 +6,40 @@ Actually mein jo branch copy krti hai uska naam feature rkh skte hai yaan kch bh
 
 git checkout -b "feature" branch ka naam 
 
+git branch -- isse pata chalega ki kitni branches hai total
+* feature
+  master
 
+> GRAPH KE CHANGES -- ye sab pata laga hai hume graph option ko click krne pr 
+
+Balle Nilesh Yadav
+Final Nilesh Yadav
+Changes Nilesh Y ...
+Third commit Nilesh ...
+Commited Nilesh Yadav
+day2commit Nilesh Y ...
+Commit Nilesh Yadav
+Committed Nilesh Ya ...
+Commited Nilesh Yadav
+My second commit ...
+My first commit Niles ...
+feature
++1
+
+
+git checkout master
+git merge feature 
+master aur feature ko merge hum aise karenge
+
+fir ab feature ka branch khtm toh hum feature ko delete kr skte hai 
+
+git branch -D feature 
+branch delete feature
+
+git branch -D feature
+Deleted branch feature (was 1de1b5d).
+
+aur jabb kaam khatam ho jaaye toh vahi pr branch ko delete kr do 
+
+git branch -D pay
 
