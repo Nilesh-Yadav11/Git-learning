@@ -17,5 +17,10 @@ git branch -M main aise
 fir kahega ki push krdo apne code ko 
 origin me main ko daal do 
 
-git push -u origin main
+git push -u origin main (Ye bss pehli baar likhna pdta hai kisi branch ke andar)
+
+uske baad kcuh change kiya ho agar toh fir kisi file me same branch me hi toh seedha push karo usse
+
+
+
 
