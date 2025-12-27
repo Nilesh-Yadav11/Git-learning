@@ -40,4 +40,5 @@ console.log(footer)
 // fir message likh kr aana baahr esc likh kr fir usse baahr nikalne ke liye 
 // :wq likh dena -- matlab save and quit 
 
-
+console.log("Latest Update")
+console.log("Bug fixed")
